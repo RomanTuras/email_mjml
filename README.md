@@ -1,8 +1,8 @@
 Responsive email using MJML
 
-To install: `$ npm install -g mjml`
+To install MJML: `$ npm install -g mjml`
 
-To make: `mjml -r email.mjml -o .`
+To make HTML: `mjml -r email.mjml -o .`
 
 Read more [here](https://blog.logrocket.com/creating-responsive-emails-using-mjml/)
 
