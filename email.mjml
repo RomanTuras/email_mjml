@@ -1,0 +1,76 @@
+<mjml>
+  <mj-head>
+    <mj-font name="FontAwesome" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"/>
+  </mj-head>
+  <mj-body>
+    <mj-section background-color="#fff" padding="0">
+      <mj-column>
+        <mj-image width="600px" padding="0" src="img/header.jpg"/>
+      </mj-column>
+    </mj-section>
+    <!-- Email Introduction -->
+    <mj-section background-color="#fff">
+      <mj-column width="500px">
+        <mj-text font-style="bold"
+          font-size="24px"
+          font-family="Roboto"
+          color="#626262">Дорогие партнеры!</mj-text>
+          <mj-text color="#525252" 
+          font-size="20px"
+          font-family="Roboto">
+              Пусть Ваши дома и офисы наполняются теплом и уютом. Пусть сбываются все, даже самые смелые мечты и осуществляются намеченные планы! Сердца Ваших близких и родных будут согреты любовью и заботой. 
+              Пусть окружающие Вас люди, а так же и Ваши клиенты будут добрыми и отзывчивыми. 
+              <br>А Рождественская звезда всегда освещает Вам путь!
+          </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- Columns section -->
+    <!-- Side image -->
+    <mj-section background-color="white">
+      <!-- Left image -->
+      <mj-column vertical-align="middle">
+          <mj-image width="161px" src="img/presents.jpg"/>
+      </mj-column>
+      <!-- right paragraph -->
+      <mj-column vertical-align="middle">
+        <mj-text font-style="bold"
+            font-size="20px"
+            font-family="Roboto"
+            color="#626262">
+      
+        </mj-text>
+        <mj-text color="#525252" 
+          font-size="20px"
+          font-family="Roboto">
+            2021 — самое время воплощать задуманное, ведь хозяин года благоволит смелым, решительным и упорным.
+            Финансового благополучия Вам и стремления вперед!
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column width="400px">
+        <mj-text font-style="bold" align="center"
+          font-size="22px"
+          font-family="Roboto"
+          color="#626262">Желаю достичь новых вершин и новых целей!</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff">
+      <mj-column width="600px">
+        <mj-text font-style="bold" align="right"
+          font-size="20px"
+          font-family="Roboto"
+          color="#626262">С Уважением, Роман Турас</mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#fff" padding="0">
+      <mj-column vertical-align="middle">
+        <mj-image width="600px" padding="0" src="img/footer.jpg"/>
+      </mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>
